@@ -1,0 +1,51 @@
+.card{
+ display:inline-block;
+width: 250px;
+min-width: 300px;
+margin: 10px;
+}
+
+.principal{
+
+
+
+margin-left: 20px;
+display:inline-block;
+margin-top: 30px;
+
+}
+
+.Header{
+
+    border-color: #B0E0E6;
+    border-width: 3px;
+    border-style: solid;
+    height: 60px;
+    background-color:#B0E0E6 ;
+    display: flex;
+    border-radius: 10px;
+    }
+    
+    .titulo{
+    
+    
+    color:#D2691E;
+    margin-top: 0px;
+    }
+    
+    
+    .pesquisar{
+    
+     margin-left: auto;
+     margin-top: 15px;
+    margin-right: 20px;
+    }
+
+.form{
+
+ margin-top: 20px;
+
+
+
+
+}

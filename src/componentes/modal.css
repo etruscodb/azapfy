@@ -1,0 +1,10 @@
+.caixaModal{
+
+border-color: #87CEFA;
+border-width: 5px;
+background-color: #87CEFA;
+color: black;
+border-style: solid;
+height: 100px;
+border-radius: 10px;
+}
